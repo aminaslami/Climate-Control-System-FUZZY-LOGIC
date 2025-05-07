@@ -2,6 +2,9 @@
 
   
 
+
+**Output:** 
+
 ```<language python>
 PS C:\Users\MAA\.spyder-py3>  c:; cd 'c:\Users\MAA\.spyder-py3';   &'c:\Users\MAA\AppData\Local\Programs\Python\Python313\python.exe''c:\Users\MAA\.vscode\extensions\ms-python.debugpy-2025.6.0-win32-x64\bundled\libs\debugpy\launcher' '22971' '--' 'c:\Users\MAA\.spyder-py3\climate-control-  system_fuzzy.py' 
 
