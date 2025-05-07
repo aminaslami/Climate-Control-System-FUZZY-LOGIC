@@ -1,15 +1,9 @@
 # Climate-Control-System-FUZZY-LOGIC
 
   
-PS C:\Users\MAA\.spyder-py3>  c:; cd 'c:\Users\MAA\.spyder-py3';   &'c:\Users\MAA\AppData\Local\Programs\Python\Python313\python.exe''c:\Users\MAA\.vscode\extensions\ms-python.debugpy-2025.6.0-win32-x64\bundled\libs\debugpy\launcher' '22971' '--' 'c:\Users\MAA\.spyder-py3\climate-control-  system_fuzzy.py' 
 
 ```<language python>
-# Membership functions for temperature_error
-temperature_error['nb'] = fuzz.trimf(temperature_error.universe, [-10, -10, -5])  # Negative Big
-temperature_error['ns'] = fuzz.trimf(temperature_error.universe, [-10, -5, 0])    # Negative Small
-temperature_error['ze'] = fuzz.trimf(temperature_error.universe, [-5, 0, 5])      # Zero
-temperature_error['ps'] = fuzz.trimf(temperature_error.universe, [0, 5, 10])      # Positive Small
-temperature_error['pb'] = fuzz.trimf(temperature_error.universe, [5, 10, 10])     # Positive Big
+PS C:\Users\MAA\.spyder-py3>  c:; cd 'c:\Users\MAA\.spyder-py3';   &'c:\Users\MAA\AppData\Local\Programs\Python\Python313\python.exe''c:\Users\MAA\.vscode\extensions\ms-python.debugpy-2025.6.0-win32-x64\bundled\libs\debugpy\launcher' '22971' '--' 'c:\Users\MAA\.spyder-py3\climate-control-  system_fuzzy.py' 
 
 ```
 
