@@ -1,4 +1,4 @@
-# Climate-Control-System-FUZZY-LOGIC
+# Climate Control System FUZZY LOGIC
 
   
 
@@ -14,11 +14,6 @@ PS C:\Users\MAA\.spyder-py3>  c:; cd 'c:\Users\MAA\.spyder-py3';   &'c:\Users\MA
 Fuzzy Logic Climate Control System
 
 Enter current temperature and desired temperature to calculate control signal.
-
-```
-
-
-
 
 
 Enter current temperature (°C): 20
@@ -36,7 +31,6 @@ Action: Cooling at 83.3%
 
 Action: Cooling at 83.3%
 
-
 Enter current temperature (°C): 15
 Enter desired temperature (°C): 10
 Enter desired temperature (°C): 10
@@ -44,3 +38,9 @@ Temperature error: -5.0°C
 Control signal: -0.50
 Action: Cooling at 50.0%
 Action: Cooling at 50.0%
+```
+
+
+
+
+
