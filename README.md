@@ -1,10 +1,13 @@
 # Climate Control System FUZZY LOGIC
 
 ### Necessary Libraries
-1 - pip install numpy
-2 - pip install scikit-fuzzy
-3 - pip install control
-4 - pip install networkx
+  1 - pip install numpy
+  
+  2 - pip install scikit-fuzzy
+  
+  3 - pip install control
+  
+  4 - pip install networkx
 
 
 **Output:** 
