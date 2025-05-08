@@ -9,6 +9,8 @@
   
   4 - pip install networkx
 
+  5 - pip install scipy
+
 
 **Output:** 
 
