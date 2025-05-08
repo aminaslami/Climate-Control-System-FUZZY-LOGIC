@@ -47,7 +47,4 @@ Action: Cooling at 50.0%
 Action: Cooling at 50.0%
 ```
 
-
-
-
-
+Project Source: https://chatgpt.com/share/681cd02d-eb74-8009-ae08-ecbb558b6ec5
